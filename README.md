@@ -1,0 +1,1 @@
+A simple, interactive Rock Paper Scissors game built using HTML, CSS, and JavaScript. Features include a user-friendly interface, dynamic score tracking, and real-time game result updates. This project demonstrates basic JavaScript logic and DOM manipulation skills.
